@@ -48,6 +48,7 @@ p {
   line-height: 1.5;
   margin: 30px 0;
   font-family: 'Raleway-Regular', Arial, sans-serif;
+  color: tomato;
 }
 p a {
   text-decoration: underline;
